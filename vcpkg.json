@@ -1,6 +1,7 @@
 {
   "dependencies": [
     "backward-cpp",
+    "cpp-httplib",
     {
       "name": "curl",
       "default-features": false,
