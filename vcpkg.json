@@ -26,6 +26,7 @@
     },
     "fmt",
     "gtest",
+    "josuttis-jthread",
     {
       "name": "libuv",
       "platform": "windows | android"
